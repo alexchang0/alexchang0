@@ -1,4 +1,4 @@
-## Hi! My name is Alex and I'm studying computer science, data science, and cognitive science at UC Berkeley. I am interested in all of the connections between technology, humans, and neuroscience, specifically SWE, product design, and web development.
+<h4 align= "center"> Hi! My name is Alex and I'm studying computer science, data science, and cognitive science at UC Berkeley. I am interested in all of the connections between technology, humans, and neuroscience, specifically SWE, product design, and web development.
 alexchang0@berkeley.edu
 
 <!--
